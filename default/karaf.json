@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1749216333289,
+    "description" : "",
+    "identifier" : "karaf",
+    "lastModifiedTimestamp" : 1749216333289,
+    "name" : "karaf",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
