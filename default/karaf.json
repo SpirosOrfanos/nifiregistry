@@ -34,7 +34,7 @@
       "prioritizers" : [ ],
       "selectedRelationships" : [ "failure", "success" ],
       "source" : {
-        "comments" : "",
+        "comments" : "this is a comment0",
         "groupId" : "flow-contents-group",
         "id" : "5e02a09d-7c8c-3335-9597-e68b8ab8c41c",
         "name" : "AttributesToCSV",
@@ -79,7 +79,7 @@
         "group" : "org.apache.nifi",
         "version" : "2.4.0"
       },
-      "comments" : "",
+      "comments" : "this is a comment1",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
