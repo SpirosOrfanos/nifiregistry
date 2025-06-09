@@ -79,7 +79,7 @@
         "group" : "org.apache.nifi",
         "version" : "2.4.0"
       },
-      "comments" : "this is a comment1",
+      "comments" : "this is a comment9",
       "componentType" : "PROCESSOR",
       "concurrentlySchedulableTaskCount" : 1,
       "executionNode" : "ALL",
