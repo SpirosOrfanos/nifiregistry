@@ -63,7 +63,7 @@
     "inputPorts" : [ ],
     "labels" : [ ],
     "maxConcurrentTasks" : 1,
-    "name" : "karafotis3455",
+    "name" : "karafotis_notest",
     "outputPorts" : [ ],
     "position" : {
       "x" : 0.0,
